@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0013-roman-to-integer) |
+| [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->

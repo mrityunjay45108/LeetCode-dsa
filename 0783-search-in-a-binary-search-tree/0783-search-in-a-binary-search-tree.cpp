@@ -9,20 +9,39 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// class Solution {
+// public:
+//     TreeNode* searchBST(TreeNode* root, int target) {
+//        if(root==NULL){
+//         return NULL;
+//        }
+//       else if(root->val==target){
+//         return root;
+//       }  
+//       else if(target>root->val)
+//         return searchBST(root->right, target);
+//         else{
+//             return searchBST(root->left, target);
+//        }
+//     }
+
+// };
+
+
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int target) {
-       if(root==NULL){
-        return NULL;
-       }
-      else if(root->val==target){
-        return root;
-      }  
-      else if(target>root->val)
-        return searchBST(root->right, target);
-        else{
-            return searchBST(root->left, target);
-       }
+       
+     while(root!=NULL){
+        if(root->val==target)
+            return root;
+      else if(target < root->val)      
+        root = root->left;
+      else
+         root = root->right;
+     }
+      return NULL;
     }
 
 };
+

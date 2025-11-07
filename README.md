@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -53,9 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

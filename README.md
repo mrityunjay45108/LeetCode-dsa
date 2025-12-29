@@ -22,15 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

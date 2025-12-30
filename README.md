@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
 ## Array
 |  |
 | ------- |

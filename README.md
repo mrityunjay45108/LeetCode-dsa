@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0383-ransom-note) |
+| [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+| [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

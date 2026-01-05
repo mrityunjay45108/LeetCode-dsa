@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

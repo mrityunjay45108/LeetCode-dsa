@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0383-ransom-note) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

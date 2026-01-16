@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -148,5 +149,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

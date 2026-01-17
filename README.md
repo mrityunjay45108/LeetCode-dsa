@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
 |  |

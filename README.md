@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
 ## Monotonic Stack
 |  |

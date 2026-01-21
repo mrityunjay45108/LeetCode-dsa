@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Heap (Priority Queue)
 |  |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0043-multiply-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

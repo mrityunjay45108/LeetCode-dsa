@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0704-binary-search) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |

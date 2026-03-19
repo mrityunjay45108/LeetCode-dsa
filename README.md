@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0071-simplify-path) |
+| [0344-reverse-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0541-reverse-string-ii) |
 ## Monotonic Stack
 |  |

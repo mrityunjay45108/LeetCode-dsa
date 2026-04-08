@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)

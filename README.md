@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
 ## Stack
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0704-binary-search) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
 ## Quickselect
 |  |
 | ------- |

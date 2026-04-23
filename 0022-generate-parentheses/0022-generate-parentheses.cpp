@@ -10,8 +10,6 @@ public:
                 count++;
             else
                 count--;
-
-            // Ye important check hona chahiye
             if(count < 0)
                 return false;
         }

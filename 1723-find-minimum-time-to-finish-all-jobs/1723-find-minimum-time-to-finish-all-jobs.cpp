@@ -4,7 +4,7 @@ public:
 
     void backtrack(vector<int>& jobs, vector<int>& workers, int idx) {
         
-        // All jobs assigned
+       
         if (idx == jobs.size()) {
             int mx = 0;
 
@@ -20,7 +20,7 @@ public:
 
         for (int i = 0; i < workers.size(); i++) {
 
-            // Pruning
+           
             if (workers[i] + job >= ans)
                 continue;
 
@@ -29,9 +29,6 @@ public:
             backtrack(jobs, workers, idx + 1);
 
             workers[i] -= job;
-
-            // Important optimization
-            // If worker had no job before, don't try other empty workers
             if (workers[i] == 0)
                 break;
         }

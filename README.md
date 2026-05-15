@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0704-binary-search) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bitmask
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->

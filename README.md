@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0704-binary-search) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1034-subarrays-with-k-different-integers) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1903-largest-odd-number-in-string](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Quickselect
 |  |
 | ------- |

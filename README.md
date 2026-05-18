@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0968-binary-tree-cameras) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/mrityunjay45108/LeetCode-dsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
